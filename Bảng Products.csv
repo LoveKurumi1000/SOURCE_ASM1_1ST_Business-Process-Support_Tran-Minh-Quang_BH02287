@@ -1,0 +1,7 @@
+ProductID,ProductName,Category,SupplierID,UnitPrice
+P001,iPhone 15,Dien thoai,S01,22000000
+P002,Samsung S24,Dien thoai,S01,19000000
+P003,iPad Pro,May tinh bang,S02,25000000
+P004,Macbook M3,Laptop,S02,35000000
+P005,Tivi Sony 4K,Dien tu,S01,12000000
+P006,Tay cam PS5,Giai tri,S02,1500000
